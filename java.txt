@@ -1,0 +1,3 @@
+Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+ It was developed by Sun Microsystems in 1995 and is now owned by Oracle Corporation. 
+ Java is designed to enable developers to write once, run anywhere (WORA), meaning that compiled Java code can run on any platform that supports a Java Virtual Machine (JVM), without needing to be recompiled.
