@@ -1,0 +1,1 @@
+JavaScript is a high-level, interpreted programming language that is primarily used to make web pages interactive. Alongside HTML and CSS, it forms the core technologies of the World Wide Web. JavaScript enables developers to create dynamic content, control multimedia, animate images, validate forms, and handle user interactions.
